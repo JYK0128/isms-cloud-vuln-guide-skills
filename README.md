@@ -1,4 +1,4 @@
-# Cloud Vulnerability Inspection Guide (2024) - AI Agent Skill
+# ISMS Cloud Vulnerability Inspection Guide (2024) - AI Agent Skill
 
 ![KISA](https://img.shields.io/badge/Guide-KISA_2024-blue)
 ![License](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey)
